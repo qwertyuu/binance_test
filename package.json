@@ -1,0 +1,26 @@
+{
+  "name": "test-crypto",
+  "version": "1.0.0",
+  "description": "Hello Binance!",
+  "main": "task.js",
+  "dependencies": {
+    "ws": "^7.4.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "start": "node task.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwertyuu/test-crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwertyuu/test-crypto/issues"
+  },
+  "homepage": "https://github.com/qwertyuu/test-crypto#readme"
+}
